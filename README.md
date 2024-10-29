@@ -1,4 +1,4 @@
-## Règles du Jeu Alak
+### Règles du Jeu Alak
 
 Le jeu Alak est un jeu de stratégie pour deux joueurs, créé par Alan Baljeu en 2001, qui se joue sur un plateau unidimensionnel de 
 𝑛
